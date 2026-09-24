@@ -1,0 +1,6 @@
+Control KYC completion rate:   60.35% (1353/2242)
+Variant_B KYC completion rate: 70.89% (1588/2240)
+Relative lift: +17.5%
+Chi-square statistic: 54.760
+p-value: 0.00000
+Statistically significant at alpha=0.05: True

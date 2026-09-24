@@ -1,0 +1,7 @@
+step,users,conversion_from_prev_%
+App Install,6000,100.0
+Signup,4482,74.7
+KYC Verification,2941,65.6
+First Transaction,2192,74.5
+Loan Application,870,39.7
+Loan Approved,567,65.2
